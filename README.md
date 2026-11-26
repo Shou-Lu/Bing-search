@@ -2,7 +2,7 @@
 
 基于必应（Bing）搜索引擎的 AstrBot 网页搜索插件，适用于暂时没有搜索引擎 API 的用户。
 
-仓库：<https://github.com/Shou-Lu/Bing-search>
+仓库：<https://github.com/shou-lu/Bing-search>
 
 插件会注册一个名为 `web_search_bing` 的 LLM 工具，调用方式和返回格式都尽量贴近 AstrBot 原生网页搜索工具；同时提供 `/bing` 指令，方便手动测试或直接查资料。
 
@@ -43,7 +43,7 @@
 
 ```bash
 cd AstrBot/data/plugins
-git clone https://github.com/Shou-Lu/Bing-search.git astrbot_plugin_bing_search
+git clone https://github.com/shou-lu/Bing-search.git astrbot_plugin_bing_search
 ```
 
 如果缺少依赖，在 AstrBot 使用的 Python 环境中安装：

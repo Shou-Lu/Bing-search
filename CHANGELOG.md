@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1] - 2026-11-27
+
+### Changed
+
+- **作者与仓库同步**：作者统一为 `守禄`，仓库地址更新为 <https://github.com/shou-lu/Bing-search>
+- 同步更新 `README.md` 与 `metadata.yaml`
+
 ## [1.0.0] - 2026-11-10
 
 ### Changed
